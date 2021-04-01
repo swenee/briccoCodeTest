@@ -1,0 +1,22 @@
+{
+  "name": "bricco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsonManipulate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swenee/briccoCodeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swenee/briccoCodeTest/issues"
+  },
+  "homepage": "https://github.com/swenee/briccoCodeTest#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
